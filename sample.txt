@@ -7,6 +7,7 @@ testing
 adding new code
 
 
+new changes , adding additional lines for merge conflict
 new changes trying for merge conflict
 
 testing 
